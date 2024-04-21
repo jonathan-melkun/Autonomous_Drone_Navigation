@@ -1,2 +1,2 @@
 # Autonomous_Drone_Navigation
-Crazyflie drone script for MAE345: Introduction to Robotics
+Programmed a Crazyflie drone with Python to autonomously fly through an obstacle course with a front-mounted camera and OpenCV libraries.
